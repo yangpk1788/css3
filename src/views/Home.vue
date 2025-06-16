@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Home 页面</h1>
-    <router-link to="/about">去 About</router-link>
+    <router-link to="/scroll">点击标题到相应位置</router-link>
   </div>
 </template>

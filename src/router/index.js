@@ -1,11 +1,11 @@
 // src/router/index.js
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
-import About from '../views/About.vue'
+import ScrollTo from '../views/ScrollTo.vue'
 
 const routes = [
   { path: '/', component: Home },
-  { path: '/about', component: About }
+  { path: '/scroll', component: ScrollTo }
 ]
 
 const router = createRouter({
