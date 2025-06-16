@@ -1,4 +1,5 @@
 <template>
+<!-- 布局组件，左侧内容和右侧内容可以拖拽 -->
   <ResizelRLayout>
     <template #left>
       <div class="border-box">左侧内容</div>
