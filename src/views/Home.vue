@@ -4,7 +4,9 @@
     <p>
       <router-link to="/layout">拖拽布局</router-link>
     </p>
-    
+    <p>
+      <router-link to="/datepick">日期选择</router-link>
+    </p>
   </div>
 </template>
 <style scoped>
